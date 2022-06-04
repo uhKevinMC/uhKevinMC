@@ -1,5 +1,5 @@
 **Hola, yo soy Kevin :)**   
-roblox developer & nerd that likes code (a lot)
+comp engineering major & full stack dev
 
 ### 🧠 I know these...
 
