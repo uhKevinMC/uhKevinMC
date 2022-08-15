@@ -44,7 +44,7 @@
     </td>
     <td align="center" width="50%">
       <img width="100%" src="https://github-readme-stats.vercel.app/api?username=uhKevinMC&show_icons=true&include_all_commits=true&theme=dark&count_private=true&custom_title=Github%20Stats&bg_color=202225&border_color=202225&icon_color=58a6ff"/>
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uhKevinMC&theme=dark&custom_title=Frequent%20Languages&bg_color=202225&border_color=202225&langs_count=10"/>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uhKevinMC&theme=dark&custom_title=Frequent%20Languages&bg_color=202225&layout=compact&border_color=202225&langs_count=10"/>
     </td>
     </table>
   </div>
