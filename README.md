@@ -3,12 +3,12 @@
 
 <body>
   <div align="center">
-    <h3><samp>「 Hi 👋, I'm Kevin 🤠 」</samp></h3>
+    <h3><samp> Hi 👋, I'm Kevin 🤠 </samp></h3>
     <p>I'm a Computer Engineering Major with Full Stack Development knowledge</p>
   </div>
   <div align="center">
     ---
-    <h3>「 Tools and Languages 」</h3>
+    <h3><samp> Tools and Languages </samp></h3>
       <samp>
         <img height="18"
           src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
@@ -36,7 +36,7 @@
   <div align="center">
     <br>
     ---
-    <h3>「 Some Cool Stats 」</h3>
+    <h3><samp> Some Cool Stats </samp></h3>
     <table>
     <td align="center" width="50%">
       <img width="100%" src="https://discord-readme-badge.vercel.app/api?id=262238243875979265?bg=202225&radius=0"/>
