@@ -36,6 +36,17 @@
   <div align="center">
     <br>
     ---
+    <h3><samp> Projects of Mine </samp></h3>
+      <samp>
+        <img height="36"
+             src="https://github.com/Eedo/Eedo/blob/master/eedo-logo-main.png?raw=true">
+        <br>
+        Eedo (https://github.com/Eedo)
+      </samp>
+  </div>
+  <div align="center">
+    <br>
+    ---
     <h3><samp> Some Cool Stats </samp></h3>
     <table>
     <td align="center" width="50%">
