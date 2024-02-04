@@ -54,7 +54,7 @@
     <h3><samp> Some Cool Stats </samp></h3>
     <table>
     <td align="center" width="50%">
-      <img width="100%" src="https://discord-readme-badge.vercel.app/api?id=262238243875979265?bg=202225&radius=0"/>
+      <img width="100%" src="https://discord-readme-badge.vercel.app/api?id=262238243875979265"/>
       <img width="100%" src="https://readme-stats-plum-two.vercel.app/api/wakatime?username=@uhKevinMC&border_radius=5px&theme=dark&show_icons=true&custom_title=Weekly%20Stats&bg_color=202225&border_color=202225&icon_color=58a6ff"/>
     </td>
     <td align="center" width="50%">
